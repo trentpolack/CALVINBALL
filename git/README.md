@@ -57,3 +57,10 @@ AND YOU CAN DECORATE THEM!
 * `git prettylog` -- Pretty log with some branch graphics.
 * `git tree` -- Just prints a pretty-formatted revision history in tree form.
 * `git holy-fsck` -- Does a full and strict verification of the git repository.
+
+## Git Changelog Generation Template
+I really love writing changelogs and while I think [**Keep a Changelog**](https://keepachangelog.com/en/1.1.0/) is a very valuable resource... It also makes writing changelogs feel like _work_ work. So I typically just write a single summary message and detail out some more information in list form in the change body. I am also, coincidentally, incredibly lazy about documentation. With that in mind, I created I found [**git-cliff**](https://git-cliff.org/). 
+
+Git-Cliff is the best of the changelog generators that I've found -- as there are quite a few that exist and are even pretty good -- and it uses a Tera-formatted template file as its guiding star when generating a changelog. You can grab the one I've written up, [**changelog-generator-template.toml**](https://github.com/trentpolack/CALVINBALL/blob/develop/git/changelog-generator-template.toml) on this repo for use if it's close to what you want. It allows for more detail than most of the changelog best practices which can get overwhelming in large releases but I tend to releases at a fairly quick cadence.
+
+_NOTE_: Put an example link here.
