@@ -18,6 +18,7 @@ All notable changes to this project will be documented in this file.
 * - Updated gitconfig template.- Updated gitconfig template.
 * - Updated the actual- Updated the actual
 * - Deprecated the UE4 asset library and the paltry single source file set that was there.- Deprecated the UE4 asset library and the paltry single source file set that was there.
+* 631bee631bee
 * Update README.md with information on the git-cliff template.Update README.md with information on the git-cliff template.
 * Updated README.md with updated repo url.Updated README.md with updated repo url.
 * Updated README.md with unity link and replaced joymachine-public references.Updated README.md with unity link and replaced joymachine-public references.
