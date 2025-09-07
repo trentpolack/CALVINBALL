@@ -31,7 +31,7 @@ body = """
     {% endfor -%}
 {% endfor %}
 
-## :sparkles: Fun Facts
+### :sparkles: Fun Facts
 - {{ statistics.commit_count }} commit(s) contributed to the release.
 - {{ statistics.commits_timespan | default(value=0) }} day(s) passed between the first and last commit.
 - {{ statistics.conventional_commit_count }} commit(s) parsed as conventional.
@@ -44,6 +44,8 @@ body = """
 {%- if statistics.days_passed_since_last_release %}
 	- {{ statistics.days_passed_since_last_release }} day(s) passed between releases.
 {%- endif %}
+
+
 """
 
 # A Tera template to be rendered as the changelog's footer.

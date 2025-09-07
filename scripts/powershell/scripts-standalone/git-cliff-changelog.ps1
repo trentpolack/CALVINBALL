@@ -1,22 +1,26 @@
-param($template, $outputFilename )
-if( $null -eq $template )
+param
+(
+    [String]$Template,
+    [String]$OutputFilename="CHANGELOG.md"
+)
+if( $null -eq $Template )
 {
     write-host( "No template provided, using git-cliff default." )
 }
 else
 {
-    write-host( "Template: $template" )
+    write-host( "Template: $Template" )
 }
 
-if( $null -eq $outputFilename )
+if( $null -eq $OutputFilename )
 {
     write-host( "No output filename provided, using default (CHANGELOG.md)." )
-    $outputFilename = "CHANGELOG.md"
+    $OutputFilename = "CHANGELOG.md"
 }
 else
 {
-    write-host( "Output Filename Parameter: $outputFilename" )
+    write-host( "Output Filename Parameter: $OutputFilename" )
 }
 
-$generationCommand = "git-cliff -c $template -o $outputFilename"
+$generationCommand = "git-cliff -c $Template -o $OutputFilename"
 Invoke-Expression $generationCommand
