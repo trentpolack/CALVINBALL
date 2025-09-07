@@ -15,8 +15,14 @@ Most recent changelog: [CHANGELOG.md](https://github.com/trentpolack/CALVINBALL/
    * The anamorphic lens flare code is also a very rough first-draft.
    * The object pooling code is _not_ ready for production use by any means at the moment; it looked like it would be lovely and fine, but it is not. It is a wolf dressed up as a friendly grandmother and it will eat all joy from you.
 
+### Companion Repositories
+I have a couple of content-only repos that would fit well here but they get a bit on the heavy side on their own, so they live seperately:
+* [**Gaea 2.0 Graphs**](https://github.com/trentpolack/GaeaSandbox) — This contains a variety of graphics for [**Gaea 2.0**](https://quadspinner.com/Gaea/) for what feel like create landscapes for good gameplay spaces. Most have the output files in case of not having Gaea 2.0 or not being familiar enough with it to grab them separately. 
+* [**World Creator Levels**](https://github.com/trentpolack/WorldCreator) — This repo contains files and output from the next step in my world building workflow; after generating the Gaea heightmap, I take it into [**World Creator**](https://www.world-creator.com/) for further detailing, texturing, object population, and final postprocessing to be in a gameplay-ready state.
+   * Sometimes I follow-up the Gaea step with work in Houdini but that's a bit more time-consuming and not quite as fun to iterate with.
+
 ### Other Things of Note:
-* [**RESEARCH PAPERS**](https://github.com/trentpolack/CALVINBALL/blob/master/RESEARCH_PAPERS.md) - For the nerdier among us (like me), here are some of the better research papers/presentations I've come across over the years. That have survived over time.
+* [**RESEARCH PAPERS**](https://github.com/trentpolack/CALVINBALL/blob/master/RESEARCH_PAPERS.md) — For the nerdier among us (like me), here are some of the better research papers/presentations I've come across over the years. That have survived over time.
 * [**RESOURCES**](https://github.com/trentpolack/CALVINBALL/blob/master/RESOURCES.md) — A list of general resources for game development across a number of disciplines. (Work-in-Progress at the moment)
 * [**AWESOME_SOFTWARE**](https://github.com/trentpolack/CALVINBALL/blob/master/AWESOME_SOFTWARE.md) — Has a list of all of the software that I (trent) have found to be the best solution within its given context.
 * [**AWESOME_GAMEDEV_MENTORS**](https://ishansharma.github.io/twitter-mentors/) — Technically, it's "twitter-mentors", but I like my name better. Anyway, this is [@ishansharma](https://github.com/ishansharma)'s compilation of people ([@trentpolack](https://github.com/trentpolack) included) who offer game development mentoring to anyone that seeks it.
