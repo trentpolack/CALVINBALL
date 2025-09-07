@@ -1,9 +1,8 @@
-# [Joy Machine](https://joy-machine.com/) - Repo of *Things*
-## Maintenance Status
-**NOTE**: This repo is no longer being maintained — hence the most recent UE4 version being 4.17 — but there are still some resources/links in here which may prove useful.
+# [CALVINBALL](https://trentpolack.com) - Repo of *Things*
+Much like Calvinball, this repository has no real rhyme or reason for what happens in its walls. It's just filled with _things_ that I've found useful and been able to easily separate from larger repositories.
 
 ## Overview
-Most recent change log (which is poorly-updated until we finally find a good generator): [CHANGELOG.md](https://github.com/trentpolack/CALVINBALL/blob/master/CHANGELOG.md).
+Most recent changelog: [CHANGELOG.md](https://github.com/trentpolack/CALVINBALL/blob/master/CHANGELOG.md).
 
 * [**`assets`**](https://github.com/trentpolack/CALVINBALL/tree/master/assets) — General-purpose game assets to do with as you please.
     * [**`terrain`**](https://github.com/trentpolack/CALVINBALL/tree/master/assets/terrain) — An older iteration of the landscape that I was using for the Nevada environment (the current one is much better, but I need to keep some things internal for obvious reasons). The main attraction here is the node graph for the entire landscape build... but it requires both World Machine 3 and GeoGlyph 2. So, in the spirit of things, I included the output of a previous build I did with that graph. *However*: the output is not as good as the actual node graph will export (I made did cleanup and made some improvements before putting it in this repo); I'll try and update these files with shiny, new data if I get a spare eight hours to build the thing.
