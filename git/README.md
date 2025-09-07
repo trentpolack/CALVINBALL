@@ -63,4 +63,4 @@ I really love writing changelogs and while I think [**Keep a Changelog**](https:
 
 Git-Cliff is the best of the changelog generators that I've found -- as there are quite a few that exist and are even pretty good -- and it uses a Tera-formatted template file as its guiding star when generating a changelog. You can grab the one I've written up, [**changelog-generator-template.toml**](https://github.com/trentpolack/CALVINBALL/blob/develop/git/changelog-generator-template.toml) on this repo for use if it's close to what you want. It allows for more detail than most of the changelog best practices which can get overwhelming in large releases but I tend to releases at a fairly quick cadence.
 
-_NOTE_: Put an example link here.
+_NOTE_: The changelog for this repo, as of [**v0.2.0**](https://github.com/trentpolack/CALVINBALL/releases/tag/v0.2.0) was generated with git-cliff and the aforementioned template. 
