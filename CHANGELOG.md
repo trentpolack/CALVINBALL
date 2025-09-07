@@ -5,15 +5,17 @@ All notable changes to this project will be documented in this file.
 
 ### :cat: Note
 - Updated CHANGELOG for v0.2.0 release.
+- Added changelog generation script which relies on git-cliff; provided my personal template.
+	 - Updated changelog.
+- Update README.md with a note about the changelog template's use.
 
 
 ## :sparkles: Fun Facts
-- 1 commit(s) contributed to the release.
-- 0 day(s) passed between the first and last commit.
+- 5 commit(s) contributed to the release.
+- 20 day(s) passed between the first and last commit.
 - 0 commit(s) parsed as conventional.
 - 0 linked issue(s) detected in commits.
-- 20 day(s) passed between releases.
-## [0.2.0] - 2025-08-18
+- 20 day(s) passed between releases.## [0.2.0] - 2025-08-18
 
 ### :rocket: New Features
 	 - Added gitignore and gitattributes template files for Unity.
@@ -95,8 +97,7 @@ All notable changes to this project will be documented in this file.
 - 2691 day(s) passed between the first and last commit.
 - 3 commit(s) parsed as conventional.
 - 0 linked issue(s) detected in commits.
-- 2691 day(s) passed between releases.
-## [0.1.5] - 2018-04-06
+- 2691 day(s) passed between releases.## [0.1.5] - 2018-04-06
 
 ### :cat: Note
 - Fixed the broken-as-hell duplicate file logging PowerShell script.
@@ -189,8 +190,7 @@ All notable changes to this project will be documented in this file.
 - 255 day(s) passed between the first and last commit.
 - 0 commit(s) parsed as conventional.
 - 0 linked issue(s) detected in commits.
-- 122 day(s) passed between releases.
-## [0.1.1] - 2017-12-05
+- 122 day(s) passed between releases.## [0.1.1] - 2017-12-05
 
 ### :rocket: New Features
 	 - Adding updated UE4 assets (NOTE: created by 4.18; 4.17 assets are archived in a subfolder) and a PowerShell script for finding duplicate files recursively from a working directory.
@@ -214,8 +214,7 @@ All notable changes to this project will be documented in this file.
 - 56 day(s) passed between the first and last commit.
 - 0 commit(s) parsed as conventional.
 - 0 linked issue(s) detected in commits.
-- 56 day(s) passed between releases.
-## [0.1.0] - 2017-10-10
+- 56 day(s) passed between releases.## [0.1.0] - 2017-10-10
 
 ### :cat: Note
 - Fixed the awful mf_normal_lerp. Updated mf_wind (and mpc_world).
@@ -277,8 +276,7 @@ All notable changes to this project will be documented in this file.
 - 77 day(s) passed between the first and last commit.
 - 1 commit(s) parsed as conventional.
 - 0 linked issue(s) detected in commits.
-- 79 day(s) passed between releases.
-## [0.0.7] - 2017-07-23
+- 79 day(s) passed between releases.## [0.0.7] - 2017-07-23
 
 ### :cat: Note
 - Adding some additional powershell scripts/aliases.
@@ -295,8 +293,7 @@ All notable changes to this project will be documented in this file.
 - 2 day(s) passed between the first and last commit.
 - 0 commit(s) parsed as conventional.
 - 0 linked issue(s) detected in commits.
-- 18 day(s) passed between releases.
-## [0.0.6] - 2017-07-05
+- 18 day(s) passed between releases.## [0.0.6] - 2017-07-05
 
 ### :cat: Note
 - Added Vector Field Generator (python), SmearFrame (UE4 material), reorganization.
@@ -309,8 +306,7 @@ All notable changes to this project will be documented in this file.
 - 4 day(s) passed between the first and last commit.
 - 0 commit(s) parsed as conventional.
 - 0 linked issue(s) detected in commits.
-- 4 day(s) passed between releases.
-## [0.0.5] - 2017-07-01
+- 4 day(s) passed between releases.## [0.0.5] - 2017-07-01
 
 ### :cat: Note
 - Renamed scripts/vcmd to scripts/visualstudio. Added an extension to show full path of active file in status bar.
@@ -336,8 +332,7 @@ All notable changes to this project will be documented in this file.
 - 32 day(s) passed between the first and last commit.
 - 0 commit(s) parsed as conventional.
 - 0 linked issue(s) detected in commits.
-- 32 day(s) passed between releases.
-## [0.0.4] - 2017-05-30
+- 32 day(s) passed between releases.## [0.0.4] - 2017-05-30
 
 ### :cat: Note
 - Updated CHANGELOG for v0.0.3. I need to remember to do this before the tag.
@@ -357,13 +352,9 @@ All notable changes to this project will be documented in this file.
 - 2 day(s) passed between the first and last commit.
 - 0 commit(s) parsed as conventional.
 - 0 linked issue(s) detected in commits.
-- 3 day(s) passed between releases.
-## [0.0.3] - 2017-05-27
+- 3 day(s) passed between releases.## [0.0.3] - 2017-05-27
 
 ### :cat: Note
-- Wrote a monologue on actors, components, and actor lifecycle.
-- Added even more specifics on customizing git for optimal everyday use.
-- Renamed git-template folder to git, since it's not just templates anymore.
 - Updated the UE4 general README with a link to the source control README.
 - Removed "all rights reserved" heading.
 - Actually changing the name of the folder in the README like I should have.
@@ -383,8 +374,8 @@ All notable changes to this project will be documented in this file.
 
 
 ## :sparkles: Fun Facts
-- 20 commit(s) contributed to the release.
-- 23 day(s) passed between the first and last commit.
+- 17 commit(s) contributed to the release.
+- 22 day(s) passed between the first and last commit.
 - 0 commit(s) parsed as conventional.
 - 0 linked issue(s) detected in commits.
 - 25 day(s) passed between releases.[unreleased]: https://github.com/trentpolack/CALVINBALL/compare/v0.2.0..HEAD
