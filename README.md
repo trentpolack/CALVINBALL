@@ -26,8 +26,8 @@ I have a couple of content-only repos that would fit well here but they get a bi
 * [**RESOURCES**](https://github.com/trentpolack/CALVINBALL/blob/master/RESOURCES.md) — A list of general resources for game development across a number of disciplines. (Work-in-Progress at the moment)
 * [**AWESOME_SOFTWARE**](https://github.com/trentpolack/CALVINBALL/blob/master/AWESOME_SOFTWARE.md) — Has a list of all of the software that I (trent) have found to be the best solution within its given context.
 * [**AWESOME_GAMEDEV_MENTORS**](https://ishansharma.github.io/twitter-mentors/) — Technically, it's "twitter-mentors", but I like my name better. Anyway, this is [@ishansharma](https://github.com/ishansharma)'s compilation of people ([@trentpolack](https://github.com/trentpolack) included) who offer game development mentoring to anyone that seeks it.
-* [**Unreal Engine 4 - General Information**](https://github.com/trentpolack/CALVINBALL/blob/master/ue4/README.md) — A collection of information, links, and whatever else seems helpful to include. It also contains a summary of the UE4 content contained therein.
-* [**Unreal Engine 4 - Joy Machine Conventions**](https://github.com/trentpolack/CALVINBALL/blob/master/ue4/CONVENTIONS.md) — Our internal development conventions for working with UE4.
+* [**Unreal Engine 4 - General Information**](https://github.com/trentpolack/CALVINBALL/blob/develop/unrealengine/ue4_unsupported/content/README.md) — A collection of information, links, and whatever else seems helpful to include. It also contains a summary of the UE4 content contained therein.
+* [**Unreal Engine 4 - Joy Machine Conventions**](https://github.com/trentpolack/CALVINBALL/blob/develop/unrealengine/ue4_unsupported/content/CONVENTIONS.md) — Our internal development conventions for working with UE4.
 
 ### More to Come!
 hugs,
