@@ -175,5 +175,8 @@ Assets/Plugins/**       linguist-vendored
 *.pkmm                  lfs
 *.pkvf                  lfs
 
+# Raw files (terrain, usually).
+*.raw                   lfs
+
 # Exceptions for .asset files such as lightning pre-baking
 LightingData.asset     binary
