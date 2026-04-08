@@ -279,3 +279,6 @@ __pycache__/
 
 # And also ignore the Houdini Engine log.
 heu_session.txt
+
+# Houdini Project Ignores
+backup/
